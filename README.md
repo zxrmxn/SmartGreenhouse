@@ -12,10 +12,13 @@ This is an IOT project which aims to track greenhouse condition, in addition to 
 
 • Control the temperature using an automatic electric socket that is connected to a fan and a relay.
 
- **FULL REPORT:** 
+ **REPORT:** 
  
  https://drive.google.com/file/d/1T8IwW0b8KGxvV9Kx2R3EW_MFb6P2_stK/view
-
+ 
+ **FULL DOCUMENTATION**
+ 
+ https://drive.google.com/drive/folders/1STZ8QIpQkH5frjY3kvhHzztilstT57We?usp=sharing
 
 ## 1) Embedded Hardware
 
